@@ -1,0 +1,46 @@
+.width {
+	width: 30%;
+	padding: 20px;
+    background-color: #f1f1f1;
+	position: relative;
+	left: 721px;
+}
+span.atgmail {
+    position: relative;
+    top: -25px;
+    right: -215px;
+}
+.common {
+	border-radius: 0px;
+	height: 29px;
+}
+.padding {
+    padding-right: 0px;
+}
+header.broad {
+    padding: 20px;
+    background-color: #f1f1f1;
+}
+.mar {
+    padding: 10px 0px;
+    background-color: aliceblue;
+}
+@media screen and (max-width: 768px) {
+	
+	span.atgmail {
+    position: absolute;
+    top: 5px;
+    right: 25px;
+}
+.width {
+    width: 90%;
+    padding: 20px;
+    background-color: #f1f1f1;
+    position: absolute;
+    left: 51px;
+}
+header.broad {
+    padding: 20px;
+    background-color: #f1f1f1;
+}
+}
